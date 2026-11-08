@@ -1,5 +1,4 @@
 # DisguisedFaceGeneration
-Generation of Photo-realistic Disguised Faces from Sketches using GANs
 
 # Project Scope
 The scope of this project is to design and develop an AI-powered system that can generate
