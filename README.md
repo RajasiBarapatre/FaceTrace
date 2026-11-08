@@ -1,6 +1,5 @@
 # DisguisedFaceGeneration
 
-# Project Scope
 The scope of this project is to design and develop an AI-powered system that can generate
 realistic human faces from police sketches and create variations of these faces with disguises, such
 as adding beards, glasses, or hats. The generated images will be stored in a database that will be
